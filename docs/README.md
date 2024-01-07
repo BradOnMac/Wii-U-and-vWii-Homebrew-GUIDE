@@ -6,7 +6,7 @@ A guide to help you mod your Nintendo Wii U and vWii, from stock to cIOS and Aro
 ## Modded Wii U Uses
 - Patch your disks to play ROM Hacks of games you own
 - Play backups of games you own on your console from a USB drive or SD card without the need for the disc
-- [For more information, check out Wii: Things to do over at wiki.hacks.guide](https://wiki.hacks.guide/wiki/Wii:Things_to_do)
+- And alot more!
 ## What do I need to know before starting?
 
 !> Every time you modify a device, you always have a chance to have a **UNRECOVERABLE BRICK!**, The chances of being bricked are close to none nowadays, but they are still a possibility! So make sure you follow **ALL** directions **EXACTLY**.
