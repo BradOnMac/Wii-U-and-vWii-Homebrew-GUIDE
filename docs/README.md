@@ -16,5 +16,6 @@ A guide to help you mod your Nintendo Wii U and vWii, from stock to cIOS and Aro
 If everything goes well (and nothing goes ary), you should have everything you started with (Eshop titles, saves, etc etc.)
 
 Keep your console plugged in at all times to prevent data loss & damage...
+
 !> If you do unplug it, you could get bricked. Read more about bricks here:
 And that's it for the intro! Click the button below to start your homebrew journey!
