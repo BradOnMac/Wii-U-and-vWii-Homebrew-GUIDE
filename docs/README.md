@@ -1,8 +1,10 @@
-# Hello! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="wave">
+# Hello my friend! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="wave">
 
 A guide to help you mod your Nintendo Wii U and vWii, from stock to cIOS and Aroma/Tiramisu.
 
 ?> For help in English, visit the [Discord server](https://discord.gg/dK5rNaMhMt)
+
+!> This is not official! If you know I'm wrong, tell me on my discord (bradthehedgefox) and go to wiiu.hacks.guide! Again: THIS IS NOT OFFICIAL!
 ## Modded Wii U Uses
 - Patch your disks to play ROM Hacks of games you own
 - Play backups of games you own on your console from a USB drive or SD card without the need for the disc
